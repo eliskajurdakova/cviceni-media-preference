@@ -14,7 +14,7 @@
 
 1. Úpravou HTML nastav, aby stránka podporovala světlé i tmavé téma.
 
-1. Emulací otestuj, že stránka může být světlá i tmavá (text se mění z černé na bílou a obráceně).
+1. Emulací otestuj, že stránka může být světlá i tmavá. Rext se mění z černé na bílou a obráceně podle preference uživatele/prohlížeče.
 
 1. Uprav CSS tak, aby na pozadí ve tmavém tématu byl obrázek měsíce `podklady/moon.jpg` místo výchozího slunce `podklady/sun.jpg`.
 
